@@ -1,0 +1,23 @@
+public class suitableDT {
+    public static void main(String[] args) {
+        
+        byte age = 19;
+        int popu = 1500000;
+        long num = 9876543210L;
+        float temp = 36.5f;
+        char grade = 'A';
+        boolean pas = true;
+        short dist = 350;
+        float perct = 88.5f;
+
+
+        System.out.println("Age: " + age);
+        System.out.println("Population: " + popu);
+        System.out.println("Mobile: " + num);
+        System.out.println("Temp: " + temp + "C");
+        System.out.println("Grade: " + grade);
+        System.out.println("Passed: " + pas);
+        System.out.println("Distance: " + dist + " km");
+        System.out.println("Percentage: " + perct + "%");
+    }
+}
