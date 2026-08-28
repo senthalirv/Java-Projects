@@ -1,10 +1,7 @@
 
 
 public class main{
-     //first java program
-     /*hey lol
-     cool
-     */
+
     public static void main(String[] args){
         System.out.println("I love One direction");
         System.out.print("Vampire diaries\n");
